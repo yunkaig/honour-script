@@ -1,15 +1,15 @@
 # honour-script
 This repository contains scripts built in-house for my Honours project.
 
-Tree of files:\
-honour-script/\
-├── DawnRank\
-│   ├── DawnRankAnalysis.main.R \t\t\t - main script for DawnRank analysis\
-│   └── dawnrank.visualisation.R          - script for DawnRank visualisation\
-├── DriverNet\
-│   ├── DriverNetAnalysis.main.R          - main script for DriverNet analysis\
-│   └── drivernet.visualisation.R         - script for DriverNet visualisation\
-├── GSEA\
+## Tree of files:\
+#honour-script/\
+#├── DawnRank\
+#│   ├── DawnRankAnalysis.main.R           - main script for DawnRank analysis\
+#│   └── dawnrank.visualisation.R          - script for DawnRank visualisation\
+#├── DriverNet\
+#│   ├── DriverNetAnalysis.main.R          - main script for DriverNet analysis\
+#│   └── drivernet.visualisation.R         - script for DriverNet visualisation\
+#├── GSEA\
 │   └── gsea.analysis.R                   - Downstream analysis of GSEA results\
 ├── general                           - scripts with functions used for more than one type of analysis\
 │   ├── PlottingFunctions.R               - plotting heatmaps and barplots for driver gene prediction\

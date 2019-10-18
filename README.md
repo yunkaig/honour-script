@@ -4,7 +4,7 @@ This repository contains scripts built in-house for my Honours project.
 Tree of files:\
 honour-script/\
 ├── DawnRank\
-│   ├── DawnRankAnalysis.main.R           - main script for DawnRank analysis\
+│   ├── DawnRankAnalysis.main.R \t\t\t - main script for DawnRank analysis\
 │   └── dawnrank.visualisation.R          - script for DawnRank visualisation\
 ├── DriverNet\
 │   ├── DriverNetAnalysis.main.R          - main script for DriverNet analysis\

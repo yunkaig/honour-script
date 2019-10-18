@@ -2,7 +2,9 @@
 This repository contains scripts built in-house for my Honours project.
 
 Tree of files:\
-honour-script/\
+
+```
+honour-script/
 ├── DawnRank\
 │   ├── DawnRankAnalysis.main.R           - main script for DawnRank analysis\
 │   └── dawnrank.visualisation.R          - script for DawnRank visualisation\
@@ -23,4 +25,4 @@ honour-script/\
 └── singscore\
     ├── singscore.R                       - main script for singscore analysis\
     └── singscore.visualisation.R         - visualisation of singscore results\
-
+```
